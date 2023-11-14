@@ -10,3 +10,4 @@ describe('duckduckgo example', function() {
       .assert.textContains('.results--main', 'Nightwatch.js');
   }); 
 });
+
