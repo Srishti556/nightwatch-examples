@@ -62,3 +62,4 @@ jobs:
       if: always()
       run: ls -R
       working-directory: logs/
+      
